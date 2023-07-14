@@ -1,4 +1,4 @@
-# 📖 About Me
+![](/header.png)
 <p align="left">
    <a href="https://github.com/FrenzyyLumina/FrenzyyLumina">
     <img src="https://komarev.com/ghpvc/?username=frenzyylumina" alt="page views" />
@@ -8,6 +8,7 @@
   </a>
 </p>
 
+#
 * 💼 STEM Student • Full Stack Dev • Game Developer
 * 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive
 * 🎓 SHS-STEM Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University) • Working towards Bachelors in Entertainment & Multimedia Computing
