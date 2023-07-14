@@ -1,10 +1,11 @@
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 # 📖 About Me.
 * 💼 STEM Student • Full Stack Dev • Game Developer
 * 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive.
 * 🎓 SHS-STEM Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University) • Working towards Bachelors in Entertainment & Multimedia Computing / CS
-<div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=FrenzyyLumina&theme=tokyonight&hide_border=true)<br/>
-</div>
 
 # 💻 Tech Stack
 <div align="left">
@@ -49,9 +50,10 @@
 
 # 📊 GitHub Stats
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=FrenzyyLumina&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenzyyLumina&theme=tokyonight&hide_border=ftrue&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=FrenzyyLumina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
 </div>
+
 
 # 💬 Socials
 <div align="left">
