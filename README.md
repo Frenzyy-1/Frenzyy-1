@@ -1,6 +1,13 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FrenzyyLumina.FrenzyyLumina&left_color=green&right_color=red)
-
 # 📖 About Me
+<p align="left">
+   <a href="https://github.com/FrenzyyLumina/FrenzyyLumina">
+    <img src="https://komarev.com/ghpvc/?username=frenzyylumina" alt="page views" />
+  </a>
+   <a href="https://github.com/FrenzyyLumina?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FrenzyyLumina?color=green&logo=github">
+  </a>
+</p>
+
 * 💼 STEM Student • Full Stack Dev • Game Developer
 * 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive
 * 🎓 SHS-STEM Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University) • Working towards Bachelors in Entertainment & Multimedia Computing
@@ -33,17 +40,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
   <img width="12" />
@@ -63,7 +72,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
 </div>
 
 #
