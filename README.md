@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 # 📖 About Me.
 * 💼 STEM Student • Full Stack Dev • Game Developer
 * 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive.
@@ -51,11 +47,11 @@
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrenzyyLumina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
-# 💬 Socials
 <div align="left">
   <a href="https://www.youtube.com/channel/UCxbYiXDYi1c0-6yTHI0n5Og" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -74,12 +70,7 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/loyd8ljtyef8pypqgthxurjds">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=1)
 
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count={3})
 
