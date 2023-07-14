@@ -53,7 +53,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/loyd8ljtyef8pypqgthxurjds">
-  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=3" alt="Spotify recently played" />
+  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=2" alt="Spotify recently played" />
   </a>
   <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
