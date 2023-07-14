@@ -2,6 +2,9 @@
 * 💼 STEM Student • Full Stack Dev • Game Developer
 * 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive.
 * 🎓 SHS-STEM Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University) • Working towards Bachelors in Entertainment & Multimedia Computing / CS
+<div align="center">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=FrenzyyLumina&theme=tokyonight&hide_border=true)<br/>
+</div>
 
 # 💻 Tech Stack
 <div align="left">
@@ -20,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
 </div>
 
 # 🛠️ Tools
@@ -44,6 +48,32 @@
 </div>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=FrenzyyLumina&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FrenzyyLumina&theme=tokyonight&hide_border=true)<br/>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=FrenzyyLumina&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenzyyLumina&theme=tokyonight&hide_border=ftrue&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+# 💬 Socials
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCxbYiXDYi1c0-6yTHI0n5Og" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/frenzyylumina" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discordapp.com/users/378329293811613706" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/FrenzyyLumina" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/14489937/frenzyy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/loyd8ljtyef8pypqgthxurjds">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
