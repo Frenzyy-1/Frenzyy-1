@@ -80,6 +80,6 @@
   </a>
 </div>
 
-<div align="center">
+
 ![](https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count={3})
-</div>
+
