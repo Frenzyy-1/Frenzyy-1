@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FrenzyyLumina.FrenzyyLumina&left_color=green&right_color=red)
 
 # 📖 About Me
 * 💼 STEM Student • Full Stack Dev • Game Developer
