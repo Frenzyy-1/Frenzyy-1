@@ -79,3 +79,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+<div align="center">
+![](https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count={3})
+</div>
