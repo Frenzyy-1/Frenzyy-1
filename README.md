@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/File:Roblox_Studio_logo_2021_present.svg" height="30" alt="roblox studio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
