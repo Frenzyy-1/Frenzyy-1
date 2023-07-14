@@ -1,13 +1,12 @@
 # 📖 About Me.
-* 👋 Hello, I'm FrenzyyLumina. 16, from the Philippines
-* 🖥 Game Developer, Gameplay Programmer w/ 5+ Years Experience in Development in Roblox and 2+ Years in Unity.
-* 🎓 Senior High School Science, Technology, Engineering, Mathematics Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University)
+* 💼 STEM Student • Full Stack Dev • Game Developer
+* 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive.
+* 🎓 SHS-STEM Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University) • Working towards Bachelors in Entertainment & Multimedia Computing / CS
 
-* 🌐 Founder of Lunari Interactive.
-# 🔨 Things I'm Working On.
-* ⚔️ [Astoria](https://www.roblox.com/games/5943286646/Astoria-Alpha)
+# 💻 Tech Stack:
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-# 💪 Skills.
-* 🌙 [LuaU](https://github.com/Roblox/luau)
-* 🌍 Unity C# 
-* ➕ C++ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FrenzyyLumina&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FrenzyyLumina&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenzyyLumina&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
