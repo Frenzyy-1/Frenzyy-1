@@ -51,6 +51,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/loyd8ljtyef8pypqgthxurjds">
+  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=5" alt="Spotify recently played" />
+  </a>
+  <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 #
 <div align="left">
   <a href="https://www.youtube.com/channel/UCxbYiXDYi1c0-6yTHI0n5Og" target="_blank">
@@ -69,11 +76,3 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/loyd8ljtyef8pypqgthxurjds">
-  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=5" alt="Spotify recently played" />
-  </a>
-</div>
-
-
