@@ -10,7 +10,7 @@
 
 # About
 * 💼 STEM Student • Full Stack Dev • Game Developer
-* 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive
+* 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev • Founder @Lunari Interactive
 * 🎓 SHS-STEM Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University) • Working towards Bachelors in Entertainment & Multimedia Computing
 * 🌏 16 Yr • Filipino-Chinese • Based in the Philippines
 * 💡  Science & Technology • Anime • Video Games • Music • Code
