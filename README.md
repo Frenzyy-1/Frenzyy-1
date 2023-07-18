@@ -8,7 +8,7 @@
   </a>
 </p>
 
-#
+# About
 * 💼 STEM Student • Full Stack Dev • Game Developer
 * 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev Founder • @Lunari Interactive
 * 🎓 SHS-STEM Student [@Rizal Technological University](https://en.wikipedia.org/wiki/Rizal_Technological_University) • Working towards Bachelors in Entertainment & Multimedia Computing
@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&hide=html" height="150" alt="languages graph"  />
 </div>
 
 #
