@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-black-two-72.vercel.app/api/top-langs?username=FrenzyyLumina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5" height="150" alt="languages graph"  />
 </div>
 
 #
