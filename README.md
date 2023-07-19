@@ -59,6 +59,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  /> 
+  <img width="12" />
 </div>
 
 # 📈 Github Stats
