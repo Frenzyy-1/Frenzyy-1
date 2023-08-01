@@ -56,6 +56,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  /> 
