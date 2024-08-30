@@ -11,13 +11,13 @@
 # 
 ◈ 💼 STEM Student • Full Stack Dev • Game Developer<br>
 ◈ 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev • Founder @Lunari Interactive<br>
-◈ 🎓 [De La Salle University Manila](https://en.wikipedia.org/wiki/De_La_Salle_University) • Working towards BS Interactive Entertainment major in Game art & Design. <br>
+◈ 🎓 [De La Salle University Manila](https://en.wikipedia.org/wiki/De_La_Salle_University) • Pursuing BS Interactive Entertainment major in Game art & Design. <br>
 ◈ 🌏 17 Yr • Filipino-Chinese • Based in the Philippines<br>
 ◈ 💡  Science & Technology • Anime • Video Games • Music • Code
 
 # 💻 Tools & Languages
 <div align="left">
-     <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
   <img width="12"/>
