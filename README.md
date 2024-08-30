@@ -17,49 +17,29 @@
 
 # 💻 Tools & Languages
 <div align="left">
+     <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  /> 
   <img width="12"/>
 </div>
 
