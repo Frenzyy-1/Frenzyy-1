@@ -12,7 +12,7 @@
 ◈ 💼 Indie Game Developer • Lead Game Design Director<br>
 ◈ 🖥  Adept Gameplay Programmer • UnityDev • RobloxDev • Founder @Lunari-Interactive<br>
 ◈ 🎓 [De La Salle University Manila](https://en.wikipedia.org/wiki/De_La_Salle_University) • Pursuing BS Interactive Entertainment major in Game art & Design. <br>
-◈ 🌏 17 Yr • Filipino-Chinese • Based in the Philippines<br>
+◈ 🌏 17 Yr • Filipino-Chinese • Based in the Philippines  <br>
 ◈ 💡  STEM • Astronomy • Anime • Video Games • Music • Code
 
 # 💻 Tools & Languages
