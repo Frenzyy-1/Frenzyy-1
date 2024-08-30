@@ -45,22 +45,22 @@
 
 # 📈 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats-frenzyylumina.vercel.app/api?username=FrenzyyLumina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&include_all_commits=true&count_private=true" height="144" alt="stats graph"  />
+  <img src="https://github-readme-stats-frenzyylumina.vercel.app/api?username=FrenzyyLumina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&include_all_commits=true&count_private=true" height="200" alt="stats graph"  />
 
-  <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="144" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrenzyyLumina&theme=tokyo-night&custom_title=Frenzyy's%20Activity%20Graph&hide_border=true"  />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrenzyyLumina&theme=tokyo-night&custom_title=Frenzyy's%20Activity%20Graph&hide_border=true" height="290" />
 </div>
 
  
 <div align="center">     
   <a href="https://open.spotify.com/user/loyd8ljtyef8pypqgthxurjds">
-  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=2&unique={true|1|on|yes}" alt="Spotify recently played" />
+  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=3&unique={true|1|on|yes}"  alt="Spotify recently played" />
   </a>
 
-   <img src="https://github-readme-stats-frenzyylumina.vercel.app/api/top-langs?username=FrenzyyLumina&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true&amp;order=2&amp;include_all_commits=true&amp;count_private=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide=html" height="160" alt="languages graph">
+   <img src="https://github-readme-stats-frenzyylumina.vercel.app/api/top-langs?username=FrenzyyLumina&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true&amp;order=2&amp;include_all_commits=true&amp;count_private=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide=html" height="218" alt="languages graph">
 </div>
 
 
