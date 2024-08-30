@@ -50,13 +50,13 @@
   <img src="https://streak-stats.demolab.com?user=FrenzyyLumina&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-# 
+ 
 <div align="center">     
   <a href="https://open.spotify.com/user/loyd8ljtyef8pypqgthxurjds">
   <img src = "https://spotify-recently-played-readme.vercel.app/api?user=loyd8ljtyef8pypqgthxurjds&count=2&unique={true|1|on|yes}" alt="Spotify recently played" />
   </a>
 
-   <img src="https://github-readme-stats-frenzyylumina.vercel.app/api/top-langs?username=FrenzyyLumina&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true&amp;order=2&amp;include_all_commits=true&amp;count_private=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide=html" alt="languages graph">
+   <img src="https://github-readme-stats-frenzyylumina.vercel.app/api/top-langs?username=FrenzyyLumina&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true&amp;order=2&amp;include_all_commits=true&amp;count_private=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide=html" height="160" alt="languages graph">
 </div>
 
 # 
