@@ -58,6 +58,9 @@
 
    <img src="https://github-readme-stats-frenzyylumina.vercel.app/api/top-langs?username=FrenzyyLumina&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true&amp;order=2&amp;include_all_commits=true&amp;count_private=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide=html" height="160" alt="languages graph">
 </div>
+<div align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrenzyyLumina&theme=tokyo-night" height="250" />
+</div>
 
 # 
 <div align="left">
