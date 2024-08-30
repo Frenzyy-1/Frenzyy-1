@@ -9,11 +9,11 @@
 </p>
 
 # 
-◈ 💼 STEM Student • Full Stack Dev • Game Developer<br>
-◈ 🖥 Adept Gameplay Programmer • UnityDev • RobloxDev • Founder @Lunari Interactive<br>
+◈ 💼 Indie Game Developer • Lead Game Design Director<br>
+◈ 🖥  Adept Gameplay Programmer • UnityDev • RobloxDev • Founder @Lunari-Interactive<br>
 ◈ 🎓 [De La Salle University Manila](https://en.wikipedia.org/wiki/De_La_Salle_University) • Pursuing BS Interactive Entertainment major in Game art & Design. <br>
 ◈ 🌏 17 Yr • Filipino-Chinese • Based in the Philippines<br>
-◈ 💡  Science & Technology • Anime • Video Games • Music • Code
+◈ 💡  STEM • Astronomy • Anime • Video Games • Music • Code
 
 # 💻 Tools & Languages
 <div align="left">
