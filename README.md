@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrenzyyLumina&theme=tokyo-night&custom_title=Frenzyy's%20Activity%20Graph&hide_border=true" height="250" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrenzyyLumina&theme=tokyo-night&custom_title=Frenzyy's%20Activity%20Graph&hide_border=true"  />
 </div>
 
  
